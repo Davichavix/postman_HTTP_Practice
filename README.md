@@ -1,6 +1,8 @@
 # postman_HTTP_Practice
 postman_HTTP_Practice
 
+## HTTP HEADER FIELDS
+
 ### General:
 - Request URL
 - Requesst Method
@@ -23,3 +25,6 @@ postman_HTTP_Practice
 - Authorization
 - User-Agent
 - Referrer
+
+
+- HTTP headers as Name:Value
